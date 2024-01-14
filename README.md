@@ -1,6 +1,6 @@
 # micard2
 
-A new Flutter project.
+This is a challenge about a business card with flutter framework
 
 ## Getting Started
 
